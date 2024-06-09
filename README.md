@@ -78,14 +78,9 @@ Before running the project, ensure you have the following:
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. Issues and feature requests are also welcome.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 
-For questions or feedback, please contact [your_email@example.com].
+For questions or feedback, please contact [aayush.makhija@gmail.com].
 
 ---
-
-Replace `<repository_url>`, `<repository_directory>`, and `your_email@example.com` with the appropriate values.
